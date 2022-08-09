@@ -103,6 +103,4 @@ git shortlog -sn- mostra a quantidade de commit e o nome da pessoa q commitou
 
 git log -  mostra o commit o autor e a data e hora qual bresh pra qual bresh 
 
-git 
-
 feature > steps > logic
